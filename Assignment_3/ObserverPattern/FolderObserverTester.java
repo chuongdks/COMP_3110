@@ -7,7 +7,6 @@ public class FolderObserverTester {
         String directoryPath = "D:\\uWindsor\\SEMESTER_4\\COMP-3110\\Assignment\\Assignment 3";
     
         FolderTracker watcher = new FolderTracker(directoryPath);
-    
         FolderObserver observer = new FolderObserver();
         watcher.addObserver(observer);
     
