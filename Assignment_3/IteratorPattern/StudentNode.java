@@ -1,4 +1,6 @@
-// Class to represent a Student Record Node
+/**
+ * StudentNode is an Info expert on student information, also contain left and right node
+ */
 class StudentNode {
     String firstName;
     String lastName;

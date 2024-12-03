@@ -10,7 +10,9 @@ public class BstIteratorTester {
         tree.insert(1, "John", "Science", "Science");
         tree.insert(4, "Joana", "History", "History");
         tree.insert(2, "Engineer", "Gaming", "Engineering");
+        tree.insert(8, "Martin", "Scores", "Art");
         tree.insert(5, "Cringe", "Doktor", "Doctor");
+        tree.insert(9, "Absolute", "Cinema", "Film");
         tree.insert(6, "John", "Jobless", "IT");
 
         // Preorder Traversal
